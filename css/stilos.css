@@ -17,3 +17,8 @@ li{
     width: 200px;
     background-color: black;
 }
+footer{
+    background-color: violet;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

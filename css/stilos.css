@@ -1,24 +1,24 @@
 .marco{
     height: 70vh;
     width: 80%;
-    background-color: aquamarine;
+    background-color: rgb(255, 127, 127);
 }
 h1{
     font-size: 35px;
-    color: blue;
+    color: rgb(101, 101, 168);
     font-family: 'Courier New', Courier, monospace;
 }
 li{
     font-family: Arial, Helvetica, sans-serif;
-    color: yellow;
+    color: rgb(218, 218, 184);
 }
 .cuadro{
-    height: 200px;
-    width: 200px;
-    background-color: black;
+    height: 20px;
+    width: 20px;
+    background-color: rgb(156, 126, 126);
 }
 footer{
-    background-color: violet;
+    background-color: rgb(110, 76, 110);
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

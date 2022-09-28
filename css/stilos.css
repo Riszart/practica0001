@@ -26,3 +26,12 @@ footer{
     color: chartreuse;
     font-size: 50px;
 }
+.cuadro{
+    height: 100px;
+    width: 100ps;
+    background-color: cyan;
+}
+h2{
+    color: violet;
+    font-size: 30px;
+}
